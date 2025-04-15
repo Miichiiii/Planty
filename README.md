@@ -1,6 +1,6 @@
-# 🌱 PlantClicker – Das Pflanzen-Klicker-Spiel  
+# 🌱 Planty – Das Pflanzen-Klicker-Spiel  
 
-**PlantClicker** ist ein charmantes und interaktives Clicker-Game, bei dem du durch einfaches Klicken deine eigene Pflanze wachsen lässt und Punkte sammelst. Entwickelt mit modernen Webtechnologien bietet das Projekt nicht nur Spaß, sondern auch einen sauberen und modularen Code für Entwickler:innen, die lernen oder erweitern möchten.
+**Planty** ist ein charmantes und interaktives Clicker-Game, bei dem du durch einfaches Klicken deine eigene Pflanze wachsen lässt und Punkte sammelst. Entwickelt mit modernen Webtechnologien bietet das Projekt nicht nur Spaß, sondern auch einen sauberen und modularen Code für Entwickler:innen, die lernen oder erweitern möchten.
 
 ---
 
@@ -34,8 +34,8 @@ Bevor du loslegst, stelle sicher, dass du Folgendes installiert hast:
 
 1. **Repository klonen:**
    ```bash
-   git clone https://github.com/username/PlantClicker.git
-   cd PlantClicker
+   git clone https://github.com/username/Planty.git
+   cd Planty
 
     Abhängigkeiten installieren:
 
@@ -67,6 +67,3 @@ Entwicklungsserver starten:
 🤝 Mitwirken
 
 Du hast Ideen oder willst mitmachen? Pull Requests und Issues sind herzlich willkommen! Gemeinsam können wir dieses Spiel noch besser machen. 🌍
-📝 Lizenz
-
-Dieses Projekt steht unter der MIT-Lizenz.
