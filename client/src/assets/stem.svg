@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Main stem -->
+  <path d="M50,10 C48,30 52,50 50,90" stroke="#2E8B57" stroke-width="8" fill="none" />
+  
+  <!-- Small branch -->
+  <path d="M50,30 C60,35 70,32 80,30" stroke="#2E8B57" stroke-width="4" fill="none" />
+  
+  <!-- Another small branch -->
+  <path d="M50,60 C40,65 30,62 20,60" stroke="#2E8B57" stroke-width="4" fill="none" />
+  
+  <!-- Stem texture -->
+  <path d="M47,20 L53,20" stroke="#1B5E20" stroke-width="1" fill="none" />
+  <path d="M47,40 L53,40" stroke="#1B5E20" stroke-width="1" fill="none" />
+  <path d="M47,70 L53,70" stroke="#1B5E20" stroke-width="1" fill="none" />
+</svg>

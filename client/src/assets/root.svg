@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Main root stem -->
+  <path d="M50,10 C50,30 50,50 50,70" stroke="#8B4513" stroke-width="4" fill="none" />
+  
+  <!-- Root branches -->
+  <path d="M50,30 C40,40 30,45 20,47" stroke="#8B4513" stroke-width="3" fill="none" />
+  <path d="M50,30 C60,40 70,45 80,47" stroke="#8B4513" stroke-width="3" fill="none" />
+  
+  <path d="M50,50 C40,55 35,65 30,75" stroke="#8B4513" stroke-width="3" fill="none" />
+  <path d="M50,50 C60,55 65,65 70,75" stroke="#8B4513" stroke-width="3" fill="none" />
+  
+  <!-- Small root hairs -->
+  <path d="M20,47 C18,50 15,50 10,50" stroke="#A0522D" stroke-width="2" fill="none" />
+  <path d="M30,75 C28,80 25,85 20,87" stroke="#A0522D" stroke-width="2" fill="none" />
+  <path d="M80,47 C82,50 85,50 90,50" stroke="#A0522D" stroke-width="2" fill="none" />
+  <path d="M70,75 C72,80 75,85 80,87" stroke="#A0522D" stroke-width="2" fill="none" />
+</svg>

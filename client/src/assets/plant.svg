@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Pot -->
+  <path d="M30,80 L30,95 L70,95 L70,80 C70,80 65,85 50,85 C35,85 30,80 30,80 Z" fill="#8B4513" />
+  <ellipse cx="50" cy="80" rx="20" ry="5" fill="#A0522D" />
+  <ellipse cx="50" cy="80" rx="15" ry="3" fill="#663300" />
+  
+  <!-- Stem -->
+  <path d="M50,80 C50,80 48,60 50,40 C52,20 50,10 50,10" stroke="#2E8B57" stroke-width="4" fill="none" />
+  
+  <!-- Leaves -->
+  <path d="M50,60 C55,55 65,57 70,60 C65,70 55,65 50,60 Z" fill="#3CB371" />
+  <path d="M50,60 C45,55 35,57 30,60 C35,70 45,65 50,60 Z" fill="#3CB371" />
+  <path d="M50,40 C55,35 68,40 70,45 C65,55 55,45 50,40 Z" fill="#3CB371" />
+  <path d="M50,40 C45,35 32,40 30,45 C35,55 45,45 50,40 Z" fill="#3CB371" />
+  
+  <!-- Flower Bud -->
+  <circle cx="50" cy="10" r="5" fill="#FF69B4" />
+  <circle cx="50" cy="10" r="3" fill="#FFB6C1" />
+</svg>
