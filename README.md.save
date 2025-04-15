@@ -1,0 +1,21 @@
+# PlantClicker
+
+PlantClicker ist eine interaktive Anwendung, die es Benutzern ermöglicht, Pflanzen zu "klicken" und Punkte zu sammeln. Es ist ein unterhaltsames Projekt, das mit React und Vite entwickelt wurde.
+
+## Features
+- **Interaktives Gameplay:** Klicke auf Pflanzen, um Punkte zu sammeln.
+- **Moderne Technologien:** Entwickelt mit React, TypeScript und Vite.
+- **Einfach zu starten:** Lokale Entwicklungsumgebung in wenigen Schritten einrichten.
+
+## Voraussetzungen
+- Node.js (Version 18 oder höher)
+- npm oder yarn
+
+## Installation und Start
+
+1. **Repository klonen:**
+   ```bash
+   git clone https://github.com/username/PlantClicker.git
+   cd PlantClicker
+
+
