@@ -51,17 +51,6 @@ Entwicklungsserver starten:
 
     Spiel öffnen: Besuche http://localhost:5173 in deinem Browser und beginne mit dem Pflanzenklicken! 🌞
 
-📁 Projektstruktur (Auszug)
-
-PlantClicker/
-├── public/             # Statische Assets (z. B. Pflanzenbilder)
-├── src/
-│   ├── components/     # Wiederverwendbare React-Komponenten
-│   ├── assets/         # Bilder und Sounds
-│   ├── App.tsx         # Haupt-App-Komponente
-│   └── main.tsx        # Einstiegspunkt für React
-├── vite.config.ts      # Vite-Konfiguration
-└── README.md
 
 💡 Ideen für Erweiterungen
 
