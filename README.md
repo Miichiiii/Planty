@@ -1,3 +1,4 @@
+
 # 🌱 Planty – Das Pflanzen-Klicker-Spiel  
 
 **Planty** ist ein charmantes und interaktives Clicker-Game, bei dem du durch einfaches Klicken deine eigene Pflanze wachsen lässt und Punkte sammelst. Entwickelt mit modernen Webtechnologien bietet das Projekt nicht nur Spaß, sondern auch einen sauberen und modularen Code für Entwickler:innen, die lernen oder erweitern möchten.
@@ -19,6 +20,9 @@ Dieses Projekt wurde mit Unterstützung von Künstlicher Intelligenz entwickelt.
 - 🚀 **Einfacher Einstieg:** In wenigen Schritten startklar – ideal für Hobbyentwickler:innen und Profis gleichermaßen.
 - 🌸 **Ausbaufähig:** Leicht erweiterbar um Evolutionen, Upgrades, Animationen und sogar Krypto-Elemente.
 
+---
+  <img src="https://storage.googleapis.com/screenshot-production-us-central1/853b7c28-7164-4a70-9437-3b1d0d37be7b/196a82e0-b26d-4455-b338-779ecb1f6950.jpg">
+  
 ---
 
 ## 📦 Voraussetzungen
