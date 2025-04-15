@@ -1,0 +1,49 @@
+# Spielkonzept: "PflanzenPower"
+
+## Ziel:
+Entwickle ein Arcade-Clicker-Spiel, das dem Spiel "Hamster Kombat" ähnelt, jedoch mit einer Pflanze als zentralem Element. Ziel ist es, die Pflanze zum Wachsen und Erblühen zu bringen, während der Spieler durch Klicken Ressourcen (z.B. Sonnenenergie oder Münzen) sammelt und in Upgrades investiert.
+
+## Gameplay-Mechaniken:
+1. **Klickmechanik:**
+   - Jeder Klick repräsentiert, wie die Pflanze Sonnenlicht aufnimmt und Energie sammelt.
+   - Die gesammelte Energie (virtuelle Münzen oder Solarenergie) wird zur Aufwertung der Pflanze verwendet.
+
+2. **Upgrade-System:**
+   - Ermögliche Upgrades für verschiedene Pflanzenteile (Blätter, Wurzeln, Stängel) zur Steigerung der Energieaufnahme.
+   - Upgrades sollen multiplikative Boni und vielleicht sogar zeitlich begrenzte Effekte bieten (z.B. „Blütensturm“, der eine kurzzeitige Energieschub gibt).
+
+3. **Entwicklung und Evolution:**
+   - Baue ein System ein, in dem die Pflanze nach Erreichen bestimmter Energiegrenzen oder Upgrade-Stufen neue Fähigkeiten freischaltet.
+   - Die visuelle Darstellung der Pflanze verändert sich (z.B. Blühphase, Farbenwechsel, besondere Effekte), um den Fortschritt zu symbolisieren.
+
+4. **Quests und Herausforderungen:**
+   - Implementiere tägliche oder wöchentliche Missionen, wie das Erreichen eines bestimmten Energielevels oder das Freischalten einer bestimmten Evolution.
+   - Belohne Spieler mit Bonusresourcen, wenn sie Herausforderungen erfolgreich bestehen.
+
+5. **Ökonomie und Krypto-Elemente:**
+   - Integriere ein virtuelles Währungssystem (z.B. eine In-Game-Kryptowährung), das auch eventuell gegen reale Kryptowährungen getauscht werden kann.
+   - Optional: Implementiere Microtransactions für kosmetische Upgrades oder Boosts.
+
+## Design und User Experience:
+- **Grafik & Animation:**
+  - Ein farbenfrohes, humorvolles Design mit charmanten Animationen, die die lebendige Persönlichkeit der Pflanze betonen.
+  - Eine Benutzeroberfläche, die intuitiv und für mobile Geräte sowie Webbrowser optimiert ist.
+  
+- **Sound & Musik:**
+  - Hintergrundmusik, die Natürlichkeit und Energie vereint (z.B. leichte, akustische Klänge kombiniert mit rhythmischen Beats).
+  - Soundeffekte, die das Klicken, Upgraden und die Evolution der Pflanze begleiten.
+
+## Technische Anforderungen:
+- **Plattformen:**
+  - Entwickle das Spiel so, dass es sowohl auf mobilen Betriebssystemen (Android/iOS) als auch im Web spielbar ist.
+  
+- **Modularer Code:**
+  - Schreibe modularen und gut dokumentierten Code, der zukünftige Erweiterungen, wie saisonale Events oder besondere Herausforderungen, leicht ermöglicht.
+  - Biete Beispielcode in einer bevorzugten Sprache (z.B. JavaScript/HTML5 für Web, Swift oder Kotlin für mobile Apps).
+
+## Weitere Hinweise:
+- Kommentiere deinen Code ausführlich, damit andere Entwickler den Ablauf und die Logik nachvollziehen können.
+- Skizziere das Spielkonzept in einem Konzeptdokument und gehe auf mögliche Monetarisierungsmöglichkeiten sowie auf Social-Media-Integrationen (Leaderboards, Freundeslisten) ein.
+- Integriere einfache, aber süchtig machende Gameplay-Elemente, die den Spieler motivieren, regelmäßig zurückzukehren.
+
+# End of Prompt
